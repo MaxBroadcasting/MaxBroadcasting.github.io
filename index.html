@@ -9,17 +9,35 @@
 	text-align: center;
 	font-family: "Impact";
 }
-	
-.middlepane{
-   width: 50%;
-   min-width: 800px;
-   height: available;
-   min-height: 650px;
-   float: left;
-   background-color: royalblue;
-   border-collapse: collapse;
+.container {
+  width: 100%;
+  height: 100%;
 }
-	
+
+.leftpane {
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color: #e0e0e0;
+    border-collapse: collapse;
+}
+
+.middlepane {
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: royalblue;
+    border-collapse: collapse;
+}
+
+.rightpane {
+  width: 25%;
+  height: 100%;
+  position: relative;
+  float: right;
+  background-color: #e0e0e0;
+  border-collapse: collapse;
+}	
 .footer {
   position: fixed;
   left: 0;
@@ -142,12 +160,13 @@ li.dropdown {
 </div>
 	
 <div class="middlepane">
-	<table>
-		<tr>	
-			<th>
-				<p>Twitch Emotes</p>
-			</th>
-		</tr>
+	<div class="container">
+  	<div class="leftpane">
+  	  <h1>Test Page</h1></div>
+  	<div class="middlepane">Test Page</div>
+  	<div class="rightpane">
+  	  <h1>Test Page</h1></div>
+	</div>
 <div>
 	
 
