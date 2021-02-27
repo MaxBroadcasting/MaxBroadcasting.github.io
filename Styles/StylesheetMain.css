@@ -123,7 +123,7 @@ li.dropdown {
   display: block;
 }
 
-shadowBox {
+div {
 	width: 300px;
 	height: 200px;
 	padding: 15px;
