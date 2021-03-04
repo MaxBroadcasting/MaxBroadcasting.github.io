@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MaxBroadcasting TF2 Server</title>
+<link rel="stylesheet" type="text/css" href="Styles/StylesheetMain.css">
+</head>
+<div>
+	<img src="WebBanner.png" style="width:100%">
+	<ul>
+		<li>
+			<a href="https://www.maxbroadcasting.com"> Home </a>	
+		</li>
+		<li class="dropdown">
+    			<a href="javascript:void(0)" class="dropbtn">Media</a>
+   			<div class="dropdown-content">
+      				<a href="https://www.youtube.com/maxbroadcasting" target="_blank"> YouTube </a>
+      				<a href="https://www.twitch.tv/maxbroadcasting" target="_blank"> Twitch </a>
+      				<a href="https://www.instagram.com/maxbroadcasting" target="_blank"> Instagram </a>
+				<a href="https://www.twitter.com/maxbroadcasting" target="_blank"> Twitter </a>
+    			</div>
+  		</li>
+		<li class="dropdown">
+			<a href="javascript:void(0)" class="dropbtn">Video Series</a>
+			<div class="dropdown-content">
+      				<a href="#" target="_blank"> Minecraft Hardcore </a>
+			</div>
+		</li>
+		<li class="dropdown">
+			<a href="minecraft"> Minecraft </a>
+			<div class="dropdown-content">
+				<a href="/minecraft/server"> server </a>
+			</div>
+		</li>
+	</ul>
+</div>
+	
+<div class="container">
+	<div class="topplane">		
+	</div>
+  	<div class="leftpane">
+		<h1></h1>
+	  </div>
+  	<div class="middlepane">		
+		  <p1 style="font-family:Impact; font-size: 32px; padding-left: 1%;">Twitch Streamer / YouTuber</p1>
+		  <br></br>
+		  <br></br>
+		  <p1 style="font-family:Impact; font-size: 24px; padding-left: 1%;">Stream Schedule</p1>
+		  <img src="stream-schedule.png" alt="MaxBroadcasting Stream Schedule" style="width:100%">
+
+		  <div style="font-family: Arial; padding-left: 1%;">
+			
+
+			</div>
+			<p1><br><br><br><b>Exclusive facts about me</b></p1>
+			<div style="padding-left: 2%;">
+				<p1><b>-Eye colour:</b> Green.</p1>
+				<p1><br><b>-Favourite colour:</b> Green. Maybe. No, Blue. WAIT.. Orange.. I dunno.</p1>
+				<p1><br><b>-Favourite game:</b> Team Fortress 2</p1>
+			</div>
+		</div>
+		
+	</div>
+	<div class="rightpane">
+		<h1></h1></div>
+  </div>
+</div>
+
+
+	
+
+<body style="background-color:#e0e0e0;">
+	<footer>
+	  	<div class="footer">
+			<p1>MaxBroadcasting</p1>  
+		</div>
+  	</footer>
+</body>
+</meta>
+</html>
