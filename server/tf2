@@ -39,30 +39,46 @@
 	</div>
   	<div class="leftpane">
 		<h1></h1>
-	  </div>
+	</div>
   	<div class="middlepane">		
-		  <p1 style="font-family:Impact; font-size: 32px; padding-left: 1%;">Twitch Streamer / YouTuber</p1>
-		  <br></br>
-		  <br></br>
-		  <p1 style="font-family:Impact; font-size: 24px; padding-left: 1%;">Stream Schedule</p1>
-		  <img src="stream-schedule.png" alt="MaxBroadcasting Stream Schedule" style="width:100%">
+		  
 
 		  <div style="font-family: Arial; padding-left: 1%;">
-			
-
-			</div>
-			<p1><br><br><br><b>Exclusive facts about me</b></p1>
-			<div style="padding-left: 2%;">
-				<p1><b>-Eye colour:</b> Green.</p1>
-				<p1><br><b>-Favourite colour:</b> Green. Maybe. No, Blue. WAIT.. Orange.. I dunno.</p1>
-				<p1><br><b>-Favourite game:</b> Team Fortress 2</p1>
-			</div>
-		</div>
-		
+		  <h1>Map Rotation Order<h1>
+		  <br><br>
+		  <p1>pl_badwater</p1>
+		  <p1>koth_badlands</p1>
+		  <p1>pl_effigy_rc2</p1>
+		  <p1>pl_barnblitz</p1>
+		  <p1>koth_harvest_final</p1>
+		  <p1>pl_borneo</p1>
+		  <p1>koth_bagel_rc3</p1>
+		  <p1>pl_cactuscanyon</p1>
+		  <p1>koth_highpass</p1>
+		  <p1>plr_hightower</p1>
+		  <p1>pl_frontier_final</p1>
+		  <p1>koth_king</p1>
+		  <p1>pl_pier</p1>
+		  <p1>plr_fishladder3</p1>
+		  <p1>pl_snowycoast</p1>
+		  <p1>koth_lazarus</p1>
+		  <p1>pl_shoreleave_rc1</p1>
+		  <p1>pl_swiftwater</p1>
+		  <p1>pl_ququmannz_rc2</p1>
+		  <p1>pl_thundermountain</p1>
+		  <p1>koth_probed</p1>
+		  <p1>pl_upward</p1>
+		  <p1>koth_bagel_rc3</p1>
+		  <p1>pl_upward_abandoned</p1>
+		  <p1>koth_viaduct</p1>
+		  <p1>pl_humidity_rc5</p1>
+		  <p1>koth_undergrove_rc1</p1>
+		  </div>
 	</div>
-	<div class="rightpane">
-		<h1></h1></div>
-  </div>
+		
+</div>
+<div class="rightpane">
+	<h1></h1></div>
 </div>
 
 
