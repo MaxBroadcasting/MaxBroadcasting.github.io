@@ -18,8 +18,7 @@ body, html {
 .leftpane {
     width: 22%;
     float: left;
-    height: 10000%
-    background-color: #d5d5d5;
+    height: 100%
     border-collapse: collapse;
 }
 
@@ -39,10 +38,9 @@ body, html {
 }
 .rightpane {
   width: 22%;
-  height: 10000%
+  height: 100%
   position: relative;
   float: right;
-  background-color: #d5d5d5;
   border-collapse: collapse;
 }	
 .footer {
